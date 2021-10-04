@@ -15,8 +15,8 @@
 | Field        | Type    | Description                                    |
 | ------------ | ------- | ---------------------------------------------- |
 | `order_id`   | int     | Primary Key and Unique identifier of the order |
-| `first_name` | varchar | Order name                                     |
-| `last_name`  | varchar | User who submitted order                       |
+| `order_name` | varchar | Order name                                     |
+| `user_id`  | varchar | User who submitted order                       |
 
 ## Diagram
 
@@ -24,18 +24,35 @@
 
 ## Task
 
-Give us pseudo code or talk through the following:
+Talk through each of the following SQL statements and what the problem with each is.
 
-### Fix this sql
+### Problem 1
 
 ```sql
-select * from 
-
+SELECT * FROM public.users WHERE first_name == 'shroud'
 ```
 
-- Broken join
-- Query table selecting c1, c2, c3
-- add filter to only active one
-- add filter where name is like Bob
-- Join two tables
-- create a table
+### Problem 2
+
+```sql
+ SELECT user_id, last_name, first_name, FROM public.users
+```
+
+### Problem 3
+
+```sql
+SELECT * FROM public.users LEFT JOIN public.orders ON user_id = user_id
+```
+
+### Problem 4
+
+```sql
+SELECT count(user_id) AS "Count per last_name", last_name 
+FROM public.users
+```
+
+### Problem 5
+
+```sql
+SELECT * FROM public.users WHERE first_name = "test"
+```

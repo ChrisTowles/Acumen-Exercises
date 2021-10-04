@@ -1,21 +1,25 @@
 <template>
-  <div>
-    <h1>Home</h1>
+  <v-container>
+    <h1>Names</h1>
     <v-card>
       <v-card-text>
-        <my-counter />
+
       </v-card-text>
     </v-card>
-  </div>
+  </v-container>
 </template>
 
 <script lang="ts">
 import Vue from 'vue';
-import MyCounter from '@/components/my-counter.vue'; // @ is an alias to /src
 
 export default Vue.extend({
+  data() {
+    return {
+      names: ['Chris', 'Paul', 'Douglas', 'Jordan'],
+    };
+  },
   components: {
-    MyCounter,
+
   },
 });
 
