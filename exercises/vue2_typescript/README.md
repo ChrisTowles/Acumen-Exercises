@@ -2,8 +2,13 @@
 
 ## Tasks
 
-- Fix the Broken `My-Counter` Component
-- Use the `List of names` Component to List names from the `Names View`
+## Problem 1
+
+ Fix the Broken `My-Counter` Component
+
+## Problem 2
+
+Use the `List of names` Component to List names from the `Names View`
 
 ## Project setup
 
