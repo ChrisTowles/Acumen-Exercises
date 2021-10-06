@@ -3,7 +3,7 @@
 
 
 
-
+# Ask user for confirmation before beginning
 read -p "are you sure? " ans
 if [ $ans != y ] 
 then
