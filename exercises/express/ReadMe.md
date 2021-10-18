@@ -1,7 +1,5 @@
 # Express
 
-TODO: Chris Towles
-
 ## Task
 
 - fix
