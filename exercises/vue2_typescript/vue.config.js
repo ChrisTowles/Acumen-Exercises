@@ -5,6 +5,7 @@ module.exports = {
   publicPath: '/',
   transpileDependencies: [],
 
+  lintOnSave: false,
 
   devServer: {
     https: false,
