@@ -29,30 +29,24 @@ Talk through each of the following SQL statements and what the problem with each
 ### Problem 1
 
 ```sql
-SELECT * FROM public.users WHERE first_name == 'shroud'
+ SELECT user_id, last_name, first_name, FROM public.users;
 ```
 
 ### Problem 2
 
 ```sql
- SELECT user_id, last_name, first_name, FROM public.users
+SELECT * FROM public.users LEFT JOIN public.orders ON user_id = user_id;
 ```
 
 ### Problem 3
 
 ```sql
-SELECT * FROM public.users LEFT JOIN public.orders ON user_id = user_id
+SELECT count(user_id) AS "Count per last_name", last_name 
+FROM public.users;
 ```
 
 ### Problem 4
 
 ```sql
-SELECT count(user_id) AS "Count per last_name", last_name 
-FROM public.users
-```
-
-### Problem 5
-
-```sql
-SELECT * FROM public.users WHERE first_name = "test"
+SELECT * FROM public.users WHERE first_name = "test";
 ```
