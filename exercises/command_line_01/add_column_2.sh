@@ -3,7 +3,7 @@
 
 function add_column_2()
 {
-    #fill in here
+    # < --- FILL IN HERE
 }
 
 

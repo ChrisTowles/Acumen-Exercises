@@ -3,13 +3,17 @@
 
 #function to echo out each name and how many times it appears in the list from stdin
 function unique_counts() {
-    #??
+
+    # < --- FILL IN HERE
+
 }
 
 #function to echo out the single name with the most appearances in the list from stdin
 function largest_number_of_repeats()
 {
-    #??
+
+    # < --- FILL IN HERE
+    
 }
 
 #create a data file
