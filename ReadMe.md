@@ -12,3 +12,4 @@ This repo includes some simple exercises to help drive conversations and discuss
 | [Node Express](./exercises/node_express/)                     | A simple node `Express` app, can you add an API route and manipulate the parameters             |
 | [Sql](./exercises/sql/)                                       | Given some common mistakes in SQL can you help debug the SQL?                                   |
 | [vue2_typescript](./exercises/vue2_typescript/)               | A Vue and Typescript, can you fix a bug and add a simple feature.                               |
+| [react_typescript](./exercises/react_typescript/)               | A React and Typescript, can you fix a bug and add a simple feature.                               |
