@@ -51,10 +51,11 @@
   </v-app>
 </template>
 
-<script>
-import { Vue } from 'vue-property-decorator';
 
-export default Vue.extend({
+<script lang="ts">
+import { defineComponent } from 'vue';
+
+export default defineComponent({
   data: () => ({
     drawer: false,
     items: [

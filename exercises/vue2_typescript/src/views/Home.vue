@@ -10,10 +10,12 @@
 </template>
 
 <script lang="ts">
-import Vue from 'vue';
-import MyCounter from '@/components/my-counter.vue'; // @ is an alias to /src
+import { defineComponent } from 'vue';
 
-export default Vue.extend({
+
+import MyCounter from '../components/my-counter.vue'; 
+
+export default defineComponent({
   components: {
     MyCounter,
   },

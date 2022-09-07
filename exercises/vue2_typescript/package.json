@@ -3,42 +3,32 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "vue-cli-service serve",
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "test:unit": "vue-cli-service test:unit",
-    "lint": "vue-cli-service lint"
+    "dev": "vite --open",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
-    "vue": "^2.6.11",
-    "vue-class-component": "^7.2.3",
-    "vue-property-decorator": "^9.1.2",
-    "vue-router": "^3.2.0",
-    "vuetify": "^2.5.9"
+    
+    "@vue/runtime-dom": "3.2.37",
+    "@vueuse/core": "^9.0.0",
+    "axios": "^0.27.2",
+    "brace": "^0.11.1",
+    "lodash": "^4.17.21",
+    "regenerator-runtime": "^0.13.9",
+    "vue": "^2.7.1",
+    "vue-router": "^3.5.4",
+    "vuetify": "^2.6.7"
   },
   "devDependencies": {
-    "@mdi/font": "^6.2.95",
-    "@types/jest": "^24.0.19",
-    "@typescript-eslint/eslint-plugin": "^4.18.0",
-    "@typescript-eslint/parser": "^4.18.0",
-    "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-eslint": "~4.5.0",
-    "@vue/cli-plugin-router": "~4.5.0",
-    "@vue/cli-plugin-typescript": "~4.5.0",
-    "@vue/cli-plugin-unit-jest": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
-    "@vue/eslint-config-airbnb": "^5.0.2",
-    "@vue/eslint-config-typescript": "^7.0.0",
-    "@vue/test-utils": "^1.0.3",
-    "deepmerge": "^4.2.2",
-    "eslint": "^6.7.2",
-    "eslint-plugin-import": "^2.20.2",
-    "eslint-plugin-vue": "^6.2.2",
-    "sass": "^1.32.13",
-    "sass-loader": "^12.1.0",
-    "typescript": "~4.1.5",
-    "vue-template-compiler": "^2.6.11",
-    "webpack": "^4.43.0"
+    
+    "@vitejs/plugin-vue2": "^1.1.2",
+    
+    "c8": "^7.12.0",
+    
+    "rollup": "^2.77.2",
+    "sass": "1.32.13",
+    "tslib": "^2.4.0",
+    "typescript": "4.7.4",
+    "unplugin-vue-components": "^0.21.2",
+    "vite": "^3.0.3" 
   }
 }

@@ -2,6 +2,9 @@
 
 This repo includes some simple exercises to help drive conversations and discuss how problems are approached.
 
+
+
+
 ## Exercises
 
 | Type                                                          | Summary                                                                                         |

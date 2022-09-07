@@ -1,5 +1,11 @@
 # vue2_typescript
 
+
+## requirements
+
+- Node 16
+
+
 ## Tasks
 
 ## Problem 1
@@ -12,13 +18,13 @@ Use the `List of names` Component to List names from the `Names View`
 
 ## Project setup
 
-```
+```bash
 npm install
 ```
 
 ### Compiles and hot-reloads for development
 
-```
+```bash
 npm run dev
 ```
 
