@@ -14,13 +14,15 @@ npm install
 
 ## Problem 1
 
-Fix the broken `heroes` Component. Pressing `add hero` isn't working.
-
-There are 2 things that are wrong.
+Fix the broken `heroes` component. Pressing `add hero` isn't working.
 
 ## Problem 2
 
-TODO:
+Please add ensure the list of `heroes` is always sorted.
+
+## Problem 3
+
+Some of our heros have turned evil. Please add a flag to them, and show that they are evil in the list.
 
 ### Compiles and hot-reloads for development
 
