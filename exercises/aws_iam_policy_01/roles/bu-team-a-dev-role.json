@@ -1,0 +1,7 @@
+{
+    "policies": [
+        "team-a-manage-s3-policy"
+    ],
+    "trustPolicy": "saml-mfa-trust-policy",
+    "description": "Console Role for Team 1"
+}
