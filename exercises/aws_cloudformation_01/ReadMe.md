@@ -5,6 +5,7 @@
   - [Questions](#questions)
     - [Question 1](#question-1)
     - [Question 2](#question-2)
+    - [Question 3](#question-3)
   - [Hands on Problem](#hands-on-problem)
     - [Problem 1](#problem-1)
     - [Problem 2](#problem-2)
@@ -24,6 +25,10 @@ What can you tell me about AWS CloudFormations and your experience with it. Talk
 ### Question 2
 
 What strategies do you employ when deploying a lot of inter-connected AWS services to the same account with CloudFormations.
+
+### Question 3
+
+Talk me through the steps you took to deploy the CloudFormation templates. What did you do? Any best practices you employed?
 
 ## Hands on Problem
 
