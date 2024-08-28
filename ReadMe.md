@@ -18,3 +18,4 @@ This repo includes some simple exercises to help drive conversations and discuss
 | [typescript_problem_02_all_permutations](./exercises/typescript_problem_02_all_permutations/)               | Typescript logic problem                                                                        |
 | [typescript_problem_03_bom](./exercises/typescript_problem_03_bom/)                                         | More complex Typescript logic problem                                                           |
 | [aws_iam_policy_01](./exercises/aws_iam_policy_01/)                                                         | AWS IAM Policy Example                                                                          |
+| [aws_cloudformation_01](./exercises/aws_cloudformation_01/)                                                 | AWS CloudFormation Example                                                                          |
