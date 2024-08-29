@@ -31,8 +31,8 @@ Team A reports they can see the list of other teams AWS buckets in the console b
 
 Using the given IAM Polices:
 
-[bu-team-a-dev-role.json](./roles/bu-team-a-dev-role.json)
-[team-a-manage-s3-policy.json](./policies/team-a-manage-s3-policy.json)
+- [bu-team-a-dev-role.json](./roles/bu-team-a-dev-role.json)
+- [team-a-manage-s3-policy.json](./policies/team-a-manage-s3-policy.json)
 
 Talk through each of the following IAM tasks and work out how you would address them
 
