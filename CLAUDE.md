@@ -50,9 +50,17 @@ npm run dev          # vite dev server
 npm run typecheck    # tsc --noEmit
 ```
 
+### Vue 3
+```bash
+cd exercises/vue3_typescript
+npm install
+npm run dev          # vite dev server
+npm run typecheck    # vue-tsc --noEmit
+```
+
 ## Architecture
 
 - No shared code between exercises - each is isolated
 - TypeScript problems use vitest for testing
-- Frontend exercises: Angular (Karma), React (Jest), Vue 2 (Vite)
+- Frontend exercises: Angular (Karma), React (Jest), Vue 2 (Vite), Vue 3 (Vite)
 - Non-code exercises (sql, command_line, design) have no package.json
