@@ -1,5 +1,9 @@
 # AWS IAM Question
 
+**Skills:** IAM policies, S3 permissions, ARN patterns, conditions
+
+**Success Criteria:** Policy allows only prefixed bucket creation and object CRUD.
+
 - [AWS IAM Question](#aws-iam-question)
   - [Setup](#setup)
   - [Questions](#questions)

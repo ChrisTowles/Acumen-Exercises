@@ -1,5 +1,13 @@
 # typescript_problem_all_permutations
 
+## Exercise Info
+- **Skills Tested:**
+  - Recursion and backtracking
+  - Duplicate handling and deduplication
+  - Combinatorics understanding
+  - String manipulation
+- **Success Criteria:** All tests pass, no duplicate permutations in output, correctly handles strings with duplicate characters (e.g., 'AABC')
+
 ## requirements
 
 - Node 18+

@@ -1,5 +1,15 @@
 # vue2_typescript
 
+## Exercise Info
+- **Skills Tested:**
+  - Vue 2 components and reactive data
+  - Event binding and handlers
+  - Component composition and props
+  - Template syntax
+  - TypeScript with Vue
+- **Success Criteria:**
+  - Counter increments when button is clicked
+  - ListOfNames component displays the names array correctly
 
 ## requirements
 

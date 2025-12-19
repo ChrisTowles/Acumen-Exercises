@@ -1,5 +1,9 @@
 # Design Architecture 01
 
+**Skills:** System design, AWS services, scalability, security
+
+**Success Criteria:** Articulate coherent design with justified technology choices.
+
 ## Requirements
 
 You are given the task to design and create an API and allow users to upload PDF's for a reporting application.

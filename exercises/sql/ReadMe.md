@@ -1,5 +1,9 @@
 # SQL
 
+**Skills:** SQL syntax, JOINs, GROUP BY, error identification
+
+**Success Criteria:** Correctly identify all 4 errors and explain fixes.
+
 ## Tables
 
 ### Users

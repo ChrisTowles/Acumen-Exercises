@@ -1,5 +1,9 @@
 # Enterprise Design 01
 
+**Skills:** Deployment planning, ops, access management, support strategy
+
+**Success Criteria:** Comprehensive deployment plan addressing access, support, rollback.
+
 ## Requirements
 
 We have purchased a new software product that needs to be deployed. Users will need access to its web services.

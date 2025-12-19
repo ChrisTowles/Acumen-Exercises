@@ -1,5 +1,9 @@
 # Command Line Exercise
 
+**Skills:** Shell commands, grep, awk, file operations, bash scripting
+
+**Success Criteria:** Complete all 6 problems, scripts run correctly.
+
 Below are some simple problems to demonstrate expertise in command line using a shell.
 
 ## Tasks

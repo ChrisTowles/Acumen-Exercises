@@ -1,5 +1,9 @@
 # AWS CloudFormation
 
+**Skills:** CloudFormation YAML, CloudWatch Logs, resource properties
+
+**Success Criteria:** Valid template creates log group with 30-day retention.
+
 - [AWS CloudFormation](#aws-cloudformation)
   - [Setup](#setup)
   - [Questions](#questions)

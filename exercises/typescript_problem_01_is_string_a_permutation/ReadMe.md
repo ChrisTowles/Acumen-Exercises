@@ -1,5 +1,13 @@
 # typescript_problem_is_string_a_permutation
 
+## Exercise Info
+- **Skills Tested:**
+  - String manipulation
+  - Character frequency counting
+  - Edge case handling (null, empty, whitespace)
+  - Basic algorithms
+- **Success Criteria:** All tests pass, correctly handles null/empty strings, case-sensitivity, and whitespace
+
 ## requirements
 
 - Node 18+

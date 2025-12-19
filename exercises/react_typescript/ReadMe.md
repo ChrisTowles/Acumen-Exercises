@@ -1,5 +1,16 @@
 # react_typescript
 
+## Exercise Info
+- **Skills Tested:**
+  - React components and props passing
+  - State management with useState
+  - Event handlers
+  - TypeScript interfaces
+  - Component composition
+- **Success Criteria:**
+  - DisplayText component displays the text passed via props
+  - Counter increments when button is clicked
+
 Display the text "Hello World" using the `DisplayText` component
 
 ## Project setup

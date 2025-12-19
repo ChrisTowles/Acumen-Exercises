@@ -1,5 +1,17 @@
 # angular_typescript
 
+## Exercise Info
+- **Skills Tested:**
+  - Angular components and services
+  - RxJS basics (Observables)
+  - Template directives and data binding
+  - Component communication
+  - Array manipulation and sorting
+- **Success Criteria:**
+  - Add hero button successfully adds heroes to the list
+  - Heroes list is always sorted alphabetically
+  - Evil heroes are flagged and displayed as evil in the list
+
 ## requirements
 
 - Node 18+
