@@ -1,6 +1,10 @@
 # Acumen Exercises
 
-This repo includes some simple exercises to help drive conversations and discuss how problems are approached.
+Hey! This is a collection of small coding exercises we use during interviews. Nothing too crazy here - just some simple problems to work through together.
+
+The goal isn't to "pass a test" or write perfect code. We want to see how you think, how you approach problems, and how you work through things when pairing. Talk through your thought process, ask questions, google stuff if you need to - that's all part of it.
+
+We'll pick an exercise relevant to the role or interests.
 
 ## Exercises
 
@@ -11,8 +15,8 @@ This repo includes some simple exercises to help drive conversations and discuss
 | [Enterprise Design 01](./exercises/enterprise_design_01/)                                                   | Given the task to deploy and host an internal application what factors do you considered.       |
 | [Node Express](./exercises/node_express/)                                                                   | A simple node `Express` app, can you add an API route and manipulate the parameters             |
 | [Sql](./exercises/sql/)                                                                                     | Given some common mistakes in SQL can you help debug the SQL?                                   |
-| [vue2_typescript](./exercises/vue2_typescript/)                                                             | A Vue and Typescript, can you fix a bug and add a simple feature.                               |
-| [react_typescript](./exercises/react_typescript/)                                                           | A React and Typescript, can you fix a bug and add a simple feature.                             |
+| [vue3_typescript](./exercises/vue3_typescript)                                                             | A Vue and Typescript, can you fix a bug and add a simple feature.                               |
+| [react18_typescript_vite](./exercises/react18_typescript_vite/)                                                           | A React and Typescript, can you fix a bug and add a simple feature.                             |
 | [angular_typescript](./exercises/angular_typescript/)                                                       | A Angular and Typescript, can you fix a bug and add a simple feature.                           |
 | [typescript_problem_01_is_string_a_permutation](./exercises/typescript_problem_01_is_string_a_permutation/) | Simple Typescript logic problem                                                                 |
 | [typescript_problem_02_all_permutations](./exercises/typescript_problem_02_all_permutations/)               | Typescript logic problem                                                                        |
